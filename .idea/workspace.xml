@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e706a17-d570-4fa7-81c7-fbad9ce6a185" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/no/hvl/dat100/matriser/Matriser.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="33N1BmTrl2quo9zCPF2uURnWhbp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.MatriserEnhetsTests.testSkaler.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MatriserEnhetsTests.testSkrivUt.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MatriserEnhetsTests.testerLik.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MatriserEnhetsTests.testtilStreng.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.TabellerEnhetsTests.erSortert.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TabellerEnhetsTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TabellerEnhetsTests.testSkrivUt.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TabellerEnhetsTests.testSummer.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TabellerEnhetsTests.testfinnesTall.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TabellerEnhetsTests.testposisjonTall.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TabellerEnhetsTests.testreverser.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TabellerEnhetsTests.testsettSammen.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TabellerEnhetsTests.testtilStreng.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/henrikhopekristiansen/Documents/GitHub/javainnlevering2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.TabellerEnhetsTests.testSkrivUt">
+    <configuration name="MatriserEnhetsTests.testSkaler" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dat100-javainnlevering2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat100.matriser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.hvl.dat100.matriser" />
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat100.matriser.MatriserEnhetsTests" />
+      <option name="METHOD_NAME" value="testSkaler" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatriserEnhetsTests.testSkrivUt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dat100-javainnlevering2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat100.matriser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.hvl.dat100.matriser" />
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat100.matriser.MatriserEnhetsTests" />
+      <option name="METHOD_NAME" value="testSkrivUt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatriserEnhetsTests.testtilStreng" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dat100-javainnlevering2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat100.matriser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.hvl.dat100.matriser" />
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat100.matriser.MatriserEnhetsTests" />
+      <option name="METHOD_NAME" value="testtilStreng" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TabellerEnhetsTests.testSkrivUt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dat100-javainnlevering2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat100.tabeller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.hvl.dat100.tabeller" />
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat100.tabeller.TabellerEnhetsTests" />
+      <option name="METHOD_NAME" value="testSkrivUt" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TabellerEnhetsTests.testfinnesTall" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dat100-javainnlevering2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat100.tabeller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.hvl.dat100.tabeller" />
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat100.tabeller.TabellerEnhetsTests" />
+      <option name="METHOD_NAME" value="testfinnesTall" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="javainnlevering2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="javainnlevering2" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TabellerEnhetsTests.testSkrivUt" />
+        <item itemvalue="JUnit.MatriserEnhetsTests.testSkrivUt" />
+        <item itemvalue="JUnit.MatriserEnhetsTests.testtilStreng" />
+        <item itemvalue="JUnit.TabellerEnhetsTests.testfinnesTall" />
+        <item itemvalue="JUnit.MatriserEnhetsTests.testSkaler" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e706a17-d570-4fa7-81c7-fbad9ce6a185" name="Changes" comment="" />
+      <created>1759142582389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759142582389</updated>
+      <workItem from="1759142583448" duration="12789000" />
+      <workItem from="1759487738625" duration="1203000" />
+      <workItem from="1759488947917" duration="246000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/no/hvl/dat100/tabeller/TabellerEnhetsTests.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/no/hvl/dat100/tabeller/TabellerEnhetsTests.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
